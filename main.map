@@ -1,0 +1,250 @@
+Archive member included because of file (symbol)
+
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-exit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o (exit)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-init.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o (__libc_init_array)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crti.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crti.o
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crti.o
+ .init          0x00000000        0xc /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crti.o
+ .fini          0x00000000        0xc /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crti.o
+ .ARM.attributes
+                0x00000000       0x16 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crti.o
+ .text          0x00000000       0x94 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+ .data          0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+ .bss           0x00000000       0x1c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+ .init_array    0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+ .fini_array    0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+ .eh_frame      0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+ .jcr           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+ .text          0x00000000      0x114 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o
+ .ARM.extab     0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o
+ .ARM.exidx     0x00000000        0x8 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o
+ .ARM.attributes
+                0x00000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o
+ .data          0x00000000        0x0 adc.o
+ .data          0x00000000        0x2 main.o
+ .text          0x00000000        0x0 sim.o
+ .data          0x00000000        0x0 sim.o
+ .bss           0x00000000        0x0 sim.o
+ .comment       0x00000000       0x71 sim.o
+ .ARM.attributes
+                0x00000000       0x32 sim.o
+ .data          0x00000000        0x0 startup.o
+ .bss           0x00000000        0x0 startup.o
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x40 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x00000000        0x2 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-init.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x88 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-init.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x18 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtend.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtend.o
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtend.o
+ .eh_frame      0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtend.o
+ .jcr           0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtend.o
+ .ARM.attributes
+                0x00000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtend.o
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtn.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtn.o
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtn.o
+ .init          0x00000000        0xc /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtn.o
+ .fini          0x00000000        0xc /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtn.o
+ .ARM.attributes
+                0x00000000       0x18 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+INTERRUPTS       0x00000000         0x000000c0         xr
+TEXT             0x00000410         0x0001fbf0         xr
+RAM              0x1ffff000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crti.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/crt0.o
+
+.interrupts     0x00000000       0xc0
+ *(.isr_vector .isr_vector.*)
+ .isr_vector    0x00000000       0xc0 startup.o
+                0x00000000                g_pfnVectors
+
+.text           0x00000410      0x8f0
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x00000410      0x398 adc.o
+                0x00000410                ADC_Init
+                0x00000500                ADC_ExecCalib
+                0x000006c4                ADC_SaveCalib
+                0x00000720                adc_isr
+ .text          0x000007a8      0x3e4 main.o
+                0x000007a8                main
+                0x00000b70                delay1
+ .text          0x00000b8c      0x14c startup.o
+                0x00000b8c                RTCSIntHandler
+                0x00000b8c                FTM1IntHandler
+                0x00000b8c                USBOTGIntHandler
+                0x00000b8c                UART0SEIntHandler
+                0x00000b8c                UART2SEIntHandler
+                0x00000b8c                FTM2IntHandler
+                0x00000b8c                I2C1IntHandler
+                0x00000b8c                PORTDIntHandler
+                0x00000b8c                Default_ResetHandler
+                0x00000b8c                DMA1IntHandler
+                0x00000b8c                DACIntHandler
+                0x00000b8c                ACMPIntHandler
+                0x00000b8c                ResetHandler
+                0x00000b8c                LVDIntHandler
+                0x00000b8c                PORTAIntHandler
+                0x00000b8c                SPI1IntHandler
+                0x00000b8c                FTFAIntHandler
+                0x00000b8c                UART1SEIntHandler
+                0x00000b8c                ADCIntHandler
+                0x00000b8c                DMA0IntHandler
+                0x00000b8c                I2C0IntHandler
+                0x00000b8c                FTM0IntHandler
+                0x00000b8c                LLWUIntHandler
+                0x00000b8c                MCGIntHandler
+                0x00000b8c                RTCAIntHandler
+                0x00000b8c                SPI0IntHandler
+                0x00000b8c                TSIIntHandler
+                0x00000b8c                LPTMRIntHandler
+                0x00000b8c                PITIntHandler
+                0x00000b8c                DMA3IntHandler
+                0x00000b8c                DMA2IntHandler
+                0x00000bf0                HardFaultIntHandler
+                0x00000bf0                PendSVIntHandler
+                0x00000bf0                SysTickIntHandler
+                0x00000bf0                BusFaultIntHandler
+                0x00000bf0                NMIIntHandler
+                0x00000bf0                UsageFaultIntHandler
+                0x00000bf0                MemManageIntHandler
+                0x00000bf0                SVCIntHandler
+                0x00000bf0                DebugMonIntHandler
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ .rodata        0x00000cd8       0x28 main.o
+
+.vfp11_veneer   0x00000d00        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00000d00        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00000d00        0x0
+ .iplt          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+
+.rel.dyn        0x00000d00        0x0
+ .rel.iplt      0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000d00                . = ALIGN (0x4)
+                0x00000d00                _etext = .
+                0x00000d00                _sidata = .
+
+.data           0x1ffff000        0x0 load address 0x00000d00
+                0x1ffff000                _sdata = .
+ *(.data .data.*)
+                0x1ffff000                . = ALIGN (0x4)
+                0x1ffff000                _edata = .
+
+.igot.plt       0x1ffff000        0x0
+ .igot.plt      0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtbegin.o
+
+.bss            0x1ffff000        0x8
+                0x1ffff000                _sbss = .
+ *(.bss .bss.*)
+ .bss           0x1ffff000        0x4 adc.o
+ .bss           0x1ffff004        0x2 main.o
+ *(COMMON)
+                0x1ffff008                . = ALIGN (0x4)
+ *fill*         0x1ffff006        0x2 
+                0x1ffff008                _ebss = .
+
+.co_stack       0x1ffff008      0x400
+                0x1ffff008                . = ALIGN (0x8)
+ *(.co_stack .co_stack.*)
+ .co_stack      0x1ffff008      0x400 startup.o
+                0x1ffff008                pulStack
+                0x1ffff408                . = ALIGN (0x4)
+                0x1ffff408                _end = .
+LOAD adc.o
+LOAD main.o
+LOAD sim.o
+LOAD startup.o
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a
+END GROUP
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/libc_s.a
+END GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtend.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/crtn.o
+OUTPUT(main.elf elf32-littlearm)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 adc.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 main.o
+ .comment       0x00000000       0x71 startup.o
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x32 adc.o
+ .ARM.attributes
+                0x00000032       0x32 main.o
+ .ARM.attributes
+                0x00000064       0x32 startup.o
